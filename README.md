@@ -1,6 +1,6 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/greenelab/manubot-rootstock/tree/gh-pages) branch hosts the contents of this directory at https://greenelab.github.io/manubot-rootstock/.
+The [`gh-pages`](https://github.com/greenelab/manufund-2018/tree/gh-pages) branch hosts the contents of this directory at https://greenelab.github.io/manufund-2018/.
 
 ## Files
 
@@ -15,4 +15,4 @@ This directory contains the following files, which are mostly ignored on the `ma
 ## Source
 
 The manuscripts in this directory were built from
-[`f165f609f33b11fdf71a0db6435d4dd159f23973`](https://github.com/greenelab/manubot-rootstock/commit/f165f609f33b11fdf71a0db6435d4dd159f23973).
+[`4b67f791ecd3362fd0c34afae92313e01aa3f78c`](https://github.com/greenelab/manufund-2018/commit/4b67f791ecd3362fd0c34afae92313e01aa3f78c).
