@@ -7,8 +7,9 @@ keywords:
 - markdown
 - publishing
 - manubot
+- proposal
 lang: en-US
-title: 'Manubot Rootstock: Manuscript Title'
+title: Manubot 2018 development proposal
 ...
 
 
@@ -18,7 +19,7 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript was automatically generated
-from [greenelab/manufund-2018@4b67f79](https://github.com/greenelab/manufund-2018/tree/4b67f791ecd3362fd0c34afae92313e01aa3f78c)
+from [greenelab/manufund-2018@218f729](https://github.com/greenelab/manufund-2018/tree/218f729c6895ae0ddf8c8d3f2c7a29b71a925f62)
 on December 21, 2017.
 </em></small>
 
