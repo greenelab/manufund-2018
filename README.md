@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Manubot 2018 development proposal
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
