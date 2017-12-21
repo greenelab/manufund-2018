@@ -1,7 +1,7 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Daniel S. Himmelstein
+- Casey S. Greene
 date-meta: '2017-12-21'
 keywords:
 - markdown
@@ -19,7 +19,7 @@ title: Manubot 2018 development proposal
 
 <small><em>
 This manuscript was automatically generated
-from [greenelab/manufund-2018@218f729](https://github.com/greenelab/manufund-2018/tree/218f729c6895ae0ddf8c8d3f2c7a29b71a925f62)
+from [greenelab/manufund-2018@e08cece](https://github.com/greenelab/manufund-2018/tree/e08cece844770d81a5534789aa12587ac69252f7)
 on December 21, 2017.
 </em></small>
 
@@ -27,25 +27,26 @@ on December 21, 2017.
 
 
 
-+ **John Doe**<br>
++ **Daniel S. Himmelstein**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-3012-7446](https://orcid.org/0000-0002-3012-7446)
     · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [johndoe](https://github.com/johndoe)
+    [dhimmel](https://github.com/dhimmel)
     · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [dhimmel](https://twitter.com/dhimmel)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania
   </small>
 
-+ **Jane Roe**<br>
++ **Casey S. Greene**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-8713-9213](https://orcid.org/0000-0001-8713-9213)
     · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [janeroe](https://github.com/janeroe)<br>
+    [cgreene](https://github.com/cgreene)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [GreeneScientist](https://twitter.com/GreeneScientist)<br>
   <small>
-     Department of Whatever, University of Something
+     Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania
   </small>
 
 
