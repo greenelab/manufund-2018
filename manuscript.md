@@ -19,7 +19,7 @@ title: Manubot 2018 development proposal
 
 <small><em>
 This manuscript was automatically generated
-from [greenelab/manufund-2018@5d08b30](https://github.com/greenelab/manufund-2018/tree/5d08b30fa2ddd9c9a9ad889b6eb0ebcce1180610)
+from [greenelab/manufund-2018@5494d17](https://github.com/greenelab/manufund-2018/tree/5494d17d833f2720aef456fc89c60225e1c0f3eb)
 on December 22, 2017.
 </em></small>
 
