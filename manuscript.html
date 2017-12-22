@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Daniel S. Himmelstein" />
   <meta name="author" content="Casey S. Greene" />
-  <meta name="dcterms.date" content="2017-12-21" />
+  <meta name="dcterms.date" content="2017-12-22" />
   <meta name="keywords" content="markdown, publishing, manubot, proposal" />
   <title>Manubot 2018 development proposal</title>
   <style type="text/css">
@@ -29,17 +29,56 @@
 <header>
 <h1 class="title">Manubot 2018 development proposal</h1>
 </header>
-<p><small><em> This manuscript was automatically generated from <a href="https://github.com/greenelab/manufund-2018/tree/e08cece844770d81a5534789aa12587ac69252f7">greenelab/manufund-2018@e08cece</a> on December 21, 2017. </em></small></p>
+<p><small><em> This manuscript was automatically generated from <a href="https://github.com/greenelab/manufund-2018/tree/5d08b30fa2ddd9c9a9ad889b6eb0ebcce1180610">greenelab/manufund-2018@5d08b30</a> on December 22, 2017. </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
 <li><p><strong>Daniel S. Himmelstein</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/0000-0002-3012-7446">0000-0002-3012-7446</a> · <img src="images/github.svg" alt="GitHub icon" width="13" height="13" /> <a href="https://github.com/dhimmel">dhimmel</a> · <img src="images/twitter.svg" alt="Twitter icon" width="13" height="13" /> <a href="https://twitter.com/dhimmel">dhimmel</a><br> <small> Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania </small></p></li>
 <li><p><strong>Casey S. Greene</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/0000-0001-8713-9213">0000-0001-8713-9213</a> · <img src="images/github.svg" alt="GitHub icon" width="13" height="13" /> <a href="https://github.com/cgreene">cgreene</a> · <img src="images/twitter.svg" alt="Twitter icon" width="13" height="13" /> <a href="https://twitter.com/GreeneScientist">GreeneScientist</a><br> <small> Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania </small></p></li>
 </ul>
-<h2 id="abstract" class="page_break_before">Abstract</h2>
+<h2 id="proposal" class="page_break_before">Proposal</h2>
+<p>Manubot is a system for writing scholarly documents on GitHub. Manubot aims to <strong>transform publishing</strong> to be transparent &amp; reproducible, immediate &amp; permissionless, versioned &amp; automated, collaborative &amp; open, linked &amp; provenanced, decentralized &amp; hackable, interactive &amp; annotated, and free of charge.</p>
+<p>Manubot transfers the lessons from the <strong>open source software movement</strong> to academic writing. Documents are written in the open, creating an easy path for readers to become contributors. We recommend following a workflow where anyone can propose changes, which are then reviewed by project members and revised as necessary before being incorporated (for example, <a href="https://github.com/greenelab/manufund-2018/pull/2">see how</a> this proposal was created).</p>
+<p>Manubot is based on a collection of open source <strong>tools and standards</strong>. Manuscripts are written in markdown, using git for version control and GitHub for collaboration and review. Users can cite standard persistent identifiers and Manubot retrieves bibliographic details to automatically create a reference list. Conversion between formats (e.g. from markdown to HTML, PDF, and DOCX) is done using <a href="http://pandoc.org/">Pandoc</a>. When the manuscript changes, continuous integration automatically rebuilds and deploys it <span class="citation" data-cites="Qh7xTLwz 18w6XKsQO">[<a href="#ref-Qh7xTLwz">1</a>,<a href="#ref-18w6XKsQO">2</a>]</span>.</p>
+<p>Currently, the Manubot consists of two repositories: <a href="https://github.com/greenelab/manubot-rootstock"><code>greenelab/manubot-rootstock</code></a> (a blank manuscript with the required files) and <a href="https://github.com/greenelab/manubot"><code>greenelab/manubot</code></a> (a backend Python package). As of December 2017, <a href="https://github.com/greenelab/manubot-rootstock/graphs/contributors">10</a> individuals have contributed to the <strong>Manubot codebase</strong>, which has <a href="https://github.com/greenelab/manubot-rootstock/stargazers">33</a> ⭐s on GitHub. For more information on the Manubot, see <a href="http://slides.com/dhimmel/manubot#/">these slides</a> as well as the in-progress <a href="https://greenelab.github.io/meta-review/">Meta Review</a>.</p>
+<p>We initially created the Manubot to enable the <strong>Deep Review</strong>, a review paper on deep learning that we collaboratively drafted <a href="https://github.com/greenelab/deep-review">on GitHub</a>. Over 30 authors contributed to the Deep Review <span class="citation" data-cites="tJKvnIaZ">[<a href="#ref-tJKvnIaZ">3</a>]</span>, using <a href="https://github.com/greenelab/deep-review/issues?utf8=%E2%9C%93&amp;q=is%3Aissue">issues</a> to discuss source material and <a href="https://github.com/greenelab/deep-review/pulls?utf8=%E2%9C%93&amp;q=is%3Apr">pull requests</a> to propose manuscript changes. The community appreciated the breadth of perspectives on a quickly-developing topic and the Deep Review was the most-viewed <em>bioRxiv</em> preprint from April–June 2017 <span class="citation" data-cites="9IrsqXRa">[<a href="#ref-9IrsqXRa">4</a>]</span>. We’ve also used the Manubot to write our <a href="https://greenelab.github.io/scihub-manuscript/">Sci-Hub Coverage Study</a> — the second <a href="http://web.archive.org/web/20171221221858/http://www.prepubmed.org/top_preprints/">most viewed</a> <em>PeerJ Preprint</em> ever — and to reproduce the <a href="https://dhimmel.github.io/bitcoin-whitepaper/">Bitcoin Whitepaper</a> <span class="citation" data-cites="yte07Fnn">[<a href="#ref-yte07Fnn">5</a>]</span>. In the Manubot’s first year, its collaborative, open, and review-driven <em>authoring process</em> yielded two of the most popular preprints of 2017.</p>
+<p>In 2018, we seek to expand Manubot’s capabilities by accomplishing four feature-driven specific aims and one outreach aim:</p>
+<ol type="1">
+<li><p>JATS is the predominant archival format for scholarly manuscripts that is optimized for machine-readability and interoperability. We will implement JATS export and incorporate an existing <strong>JATS viewer</strong>, such as <a href="https://lens.elifesciences.org/about/">Lens</a>, into Manubot webpages.</p></li>
+<li><p>Currently all changes to a manuscript’s source are tracked using git. We will implement <strong>rendered diff functionality</strong> to show how a manuscript changed from the reader’s perspective and make creating “tracked changes” documents for journal resubmission easy.</p></li>
+<li><p><strong>End-to-end reproducibility</strong> is when the provenance of every manuscript result can be traced to its source. We will continue to evaluate and improve the Manubot template variables functionality, which allows users to embed results and method parameters directly from the analyses that created them.</p></li>
+<li><p>The Manubot’s <strong>citation metadata</strong> system is a powerful and versatile approach for bibliographic information. We will continue to expand Manubot’s citation-by-persistent-ID capabilities.</p></li>
+<li><p>Currently Manubot requires considerable technical expertise <a href="https://github.com/greenelab/manubot-rootstock/blob/f165f609f33b11fdf71a0db6435d4dd159f23973/SETUP.md">to setup</a> and some technical expertise <a href="https://github.com/greenelab/manubot-rootstock/blob/f165f609f33b11fdf71a0db6435d4dd159f23973/USAGE.md">to use</a>. The current userbase consists of researchers or publishers who are using tools like git and continuous integration for other tasks, so we will <strong>improve documentation, develop user stories, and perform outreach activities</strong> at relevant conferences.</p></li>
+</ol>
+<p>Our <strong>long-term vision</strong> is an improved ecosystem of scholarly communication. Imagine you could click an author to highlight only the text they wrote. Or highlight all results and figures that descend from source code contributions by the selected author. Or highlight all results that depend on a selected upstream experiment or database. Or, if a new version of software used in the manuscript or an updated dataset is released, rebuild the manuscript with the updated version and see the resulting changes… regardless of whether you’re the original authors or a curious third-party! Manubot forms the foundation for the traceability of all aspects of a scholarly manuscript, which is the key principle that underlies this potential future.</p>
+<p><em>Now is the time to bring the innovation and ethos of open source software development to the scholarly manuscript. Join us in powering the next generation of scholarly manuscript.</em></p>
 <h2 id="references" class="page_break_before">References</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs">
-
+<div id="ref-Qh7xTLwz">
+<p>1. <strong>Reproducibility of computational workflows is automated using continuous analysis</strong><br />
+Brett K Beaulieu-Jones, Casey S Greene<br />
+<em>Nature Biotechnology</em> (2017-03-13) <a href="https://doi.org/10.1038/nbt.3780" class="uri">https://doi.org/10.1038/nbt.3780</a></p>
+</div>
+<div id="ref-18w6XKsQO">
+<p>2. <strong>Collaborative software development made easy</strong><br />
+Andrew Silver<br />
+<em>Nature</em> (2017-10-04) <a href="https://doi.org/10.1038/550143a" class="uri">https://doi.org/10.1038/550143a</a></p>
+</div>
+<div id="ref-tJKvnIaZ">
+<p>3. <strong>Opportunities And Obstacles For Deep Learning In Biology And Medicine</strong><br />
+Travers Ching, Daniel S. Himmelstein, Brett K. Beaulieu-Jones, Alexandr A. Kalinin, Brian T. Do, Gregory P. Way, Enrico Ferrero, Paul-Michael Agapow, Wei Xie, Gail L. Rosen, … Casey S. Greene<br />
+<em>Cold Spring Harbor Laboratory</em> (2017-05-28) <a href="https://doi.org/10.1101/142760" class="uri">https://doi.org/10.1101/142760</a></p>
+</div>
+<div id="ref-9IrsqXRa">
+<p>4. <strong>2017 in news: The science events that shaped the year</strong><br />
+Ewen Callaway, Davide Castelvecchi, David Cyranoski, Elizabeth Gibney, Heidi Ledford, Jane J. Lee, Lauren Morello, Nicky Phillips, Quirin Schiermeier, Jeff Tollefson, Alexandra Witze<br />
+<em>Nature</em> (2017-12-18) <a href="https://doi.org/10.1038/d41586-017-08493-x" class="uri">https://doi.org/10.1038/d41586-017-08493-x</a></p>
+</div>
+<div id="ref-yte07Fnn">
+<p>5. <strong>How I used the Manubot to reproduce the Bitcoin Whitepaper</strong><br />
+Daniel Himmelstein<br />
+<em>Steemit</em> (2017-09-20) <a href="https://steemit.com/manubot/@dhimmel/how-i-used-the-manubot-to-reproduce-the-bitcoin-whitepaper" class="uri">https://steemit.com/manubot/@dhimmel/how-i-used-the-manubot-to-reproduce-the-bitcoin-whitepaper</a></p>
+</div>
 </div>
 <script>
 // AnchorJS minified version below.

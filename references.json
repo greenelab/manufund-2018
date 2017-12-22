@@ -1,1 +1,675 @@
-[]
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          28
+        ]
+      ],
+      "date-time": "2017-10-28T01:22:09Z",
+      "timestamp": 1509153729936
+    },
+    "reference-count": 0,
+    "publisher": "Springer Nature",
+    "issue": "7674",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1038/550143a",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          29
+        ]
+      ],
+      "date-time": "2017-09-29T17:28:23Z",
+      "timestamp": 1506706103000
+    },
+    "page": "143-144",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": "Collaborative software development made easy",
+    "prefix": "10.1038",
+    "volume": "550",
+    "author": [
+      {
+        "given": "Andrew",
+        "family": "Silver",
+        "affiliation": []
+      }
+    ],
+    "member": "339",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          4
+        ]
+      ]
+    },
+    "container-title": "Nature",
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://www.nature.com/doifinder/10.1038/550143a",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2017-10-10T07:17:29Z",
+      "timestamp": 1507619849000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "550143a"
+    ],
+    "URL": "https://doi.org/10.1038/550143a",
+    "relation": {},
+    "subject": [
+      "Multidisciplinary"
+    ],
+    "container-title-short": "Nature",
+    "short_url": "https://doi.org/cdvr",
+    "id": "18w6XKsQO"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          20
+        ]
+      ],
+      "date-time": "2017-12-20T11:10:41Z",
+      "timestamp": 1513768241028
+    },
+    "reference-count": 0,
+    "publisher": "Springer Nature",
+    "issue": "7685",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          18
+        ]
+      ]
+    },
+    "DOI": "10.1038/d41586-017-08493-x",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          20
+        ]
+      ],
+      "date-time": "2017-12-20T10:45:36Z",
+      "timestamp": 1513766736000
+    },
+    "page": "304-307",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": "2017 in news: The science events that shaped the year",
+    "prefix": "10.1038",
+    "volume": "552",
+    "author": [
+      {
+        "given": "Ewen",
+        "family": "Callaway",
+        "affiliation": []
+      },
+      {
+        "given": "Davide",
+        "family": "Castelvecchi",
+        "affiliation": []
+      },
+      {
+        "given": "David",
+        "family": "Cyranoski",
+        "affiliation": []
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Gibney",
+        "affiliation": []
+      },
+      {
+        "given": "Heidi",
+        "family": "Ledford",
+        "affiliation": []
+      },
+      {
+        "given": "Jane J.",
+        "family": "Lee",
+        "affiliation": []
+      },
+      {
+        "given": "Lauren",
+        "family": "Morello",
+        "affiliation": []
+      },
+      {
+        "given": "Nicky",
+        "family": "Phillips",
+        "affiliation": []
+      },
+      {
+        "given": "Quirin",
+        "family": "Schiermeier",
+        "affiliation": []
+      },
+      {
+        "given": "Jeff",
+        "family": "Tollefson",
+        "affiliation": []
+      },
+      {
+        "given": "Alexandra",
+        "family": "Witze",
+        "affiliation": []
+      }
+    ],
+    "member": "339",
+    "container-title": "Nature",
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://www.nature.com/doifinder/10.1038/d41586-017-08493-x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          20
+        ]
+      ],
+      "date-time": "2017-12-20T10:48:00Z",
+      "timestamp": 1513766880000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          18
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "d41586-017-08493-x"
+    ],
+    "URL": "https://doi.org/10.1038/d41586-017-08493-x",
+    "relation": {},
+    "subject": [
+      "Multidisciplinary"
+    ],
+    "container-title-short": "Nature",
+    "short_url": "https://doi.org/chnh",
+    "id": "9IrsqXRa"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          15
+        ]
+      ],
+      "date-time": "2017-11-15T05:22:14Z",
+      "timestamp": 1510723334826
+    },
+    "reference-count": 33,
+    "publisher": "Springer Nature",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1038/nbt.3780",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          13
+        ]
+      ],
+      "date-time": "2017-03-13T16:03:33Z",
+      "timestamp": 1489421013000
+    },
+    "page": "342-346",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": "Reproducibility of computational workflows is automated using continuous analysis",
+    "prefix": "10.1038",
+    "volume": "35",
+    "author": [
+      {
+        "given": "Brett K",
+        "family": "Beaulieu-Jones",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-8713-9213",
+        "authenticated-orcid": false,
+        "given": "Casey S",
+        "family": "Greene",
+        "affiliation": []
+      }
+    ],
+    "member": "339",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          13
+        ]
+      ]
+    },
+    "container-title": "Nature Biotechnology",
+    "original-title": [],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2017-06-25T12:32:14Z",
+      "timestamp": 1498393934000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          13
+        ]
+      ]
+    },
+    "references-count": 33,
+    "alternative-id": [
+      "nbt.3780"
+    ],
+    "URL": "https://doi.org/10.1038/nbt.3780",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.1101/056473",
+          "asserted-by": "object"
+        }
+      ],
+      "cites": []
+    },
+    "subject": [
+      "Biotechnology",
+      "Molecular Medicine",
+      "Applied Microbiology and Biotechnology",
+      "Bioengineering",
+      "Biomedical Engineering"
+    ],
+    "container-title-short": "Nat Biotechnol",
+    "short_url": "https://doi.org/f9ttx6",
+    "id": "Qh7xTLwz"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2017-10-27T14:10:46Z",
+      "timestamp": 1509113446464
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          28
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 0,
+    "publisher": "Cold Spring Harbor Laboratory",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Deep learning, which describes a class of machine learning algorithms, has recently showed impressive results across a variety of domains. Biology and medicine are data rich, but the data are complex and often ill-understood. Problems of this nature may be particularly well-suited to deep learning techniques. We examine applications of deep learning to a variety of biomedical problems -- patient classification, fundamental biological processes, and treatment of patients -- to predict whether deep learning will transform these tasks or if the biomedical sphere poses unique challenges. We find that deep learning has yet to revolutionize or definitively resolve any of these problems, but promising advances have been made on the prior state of the art. Even when improvement over a previous baseline has been modest, we have seen signs that deep learning methods may speed or aid human investigation. More work is needed to address concerns related to interpretability and how to best model each problem. Furthermore, the limited amount of labeled data for training presents problems in some domains, as can legal and privacy constraints on work with sensitive health records. Nonetheless, we foresee deep learning powering changes at the bench and bedside with the potential to transform several areas of biology and medicine.</jats:p>",
+    "DOI": "10.1101/142760",
+    "type": "manuscript",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2017-05-29T05:10:15Z",
+      "timestamp": 1496034615000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": "Opportunities And Obstacles For Deep Learning In Biology And Medicine",
+    "prefix": "10.1101",
+    "author": [
+      {
+        "ORCID": "http://orcid.org/0000-0002-5577-3516",
+        "authenticated-orcid": false,
+        "given": "Travers",
+        "family": "Ching",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-3012-7446",
+        "authenticated-orcid": false,
+        "given": "Daniel S.",
+        "family": "Himmelstein",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-6700-1468",
+        "authenticated-orcid": false,
+        "given": "Brett K.",
+        "family": "Beaulieu-Jones",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-4563-3226",
+        "authenticated-orcid": false,
+        "given": "Alexandr A.",
+        "family": "Kalinin",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-4992-2623",
+        "authenticated-orcid": false,
+        "given": "Brian T.",
+        "family": "Do",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-0503-9348",
+        "authenticated-orcid": false,
+        "given": "Gregory P.",
+        "family": "Way",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-8362-100X",
+        "authenticated-orcid": false,
+        "given": "Enrico",
+        "family": "Ferrero",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-1126-1479",
+        "authenticated-orcid": false,
+        "given": "Paul-Michael",
+        "family": "Agapow",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-1871-6846",
+        "authenticated-orcid": false,
+        "given": "Wei",
+        "family": "Xie",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-1763-5750",
+        "authenticated-orcid": false,
+        "given": "Gail L.",
+        "family": "Rosen",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-8690-9554",
+        "authenticated-orcid": false,
+        "given": "Benjamin J.",
+        "family": "Lengerich",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-1633-5780",
+        "authenticated-orcid": false,
+        "given": "Johnny",
+        "family": "Israeli",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-0811-0944",
+        "authenticated-orcid": false,
+        "given": "Jack",
+        "family": "Lanchantin",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-0568-298X",
+        "authenticated-orcid": false,
+        "given": "Stephen",
+        "family": "Woloszynek",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-1555-8261",
+        "authenticated-orcid": false,
+        "given": "Anne E.",
+        "family": "Carpenter",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-6443-4671",
+        "authenticated-orcid": false,
+        "given": "Avanti",
+        "family": "Shrikumar",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-7111-4839",
+        "authenticated-orcid": false,
+        "given": "Jinbo",
+        "family": "Xu",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-3877-0433",
+        "authenticated-orcid": false,
+        "given": "Evan M.",
+        "family": "Cofer",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-3332-9307",
+        "authenticated-orcid": false,
+        "given": "David J.",
+        "family": "Harris",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-8931-9461",
+        "authenticated-orcid": false,
+        "given": "Dave",
+        "family": "DeCaprio",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-5796-7453",
+        "authenticated-orcid": false,
+        "given": "Yanjun",
+        "family": "Qi",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-3084-2287",
+        "authenticated-orcid": false,
+        "given": "Anshul",
+        "family": "Kundaje",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-9309-8331",
+        "authenticated-orcid": false,
+        "given": "Yifan",
+        "family": "Peng",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-6681-9754",
+        "authenticated-orcid": false,
+        "given": "Laura K.",
+        "family": "Wiley",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-8008-0546",
+        "authenticated-orcid": false,
+        "given": "Marwin H. S.",
+        "family": "Segler",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-5324-9833",
+        "authenticated-orcid": false,
+        "given": "Anthony",
+        "family": "Gitter",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-8713-9213",
+        "authenticated-orcid": false,
+        "given": "Casey S.",
+        "family": "Greene",
+        "affiliation": []
+      }
+    ],
+    "member": "246",
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/142760",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2017-05-29T05:10:24Z",
+      "timestamp": 1496034624000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          28
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1101/142760",
+    "relation": {},
+    "short_url": "https://doi.org/gbpvh5",
+    "id": "tJKvnIaZ"
+  },
+  {
+    "type": "webpage",
+    "URL": "https://steemit.com/manubot/@dhimmel/how-i-used-the-manubot-to-reproduce-the-bitcoin-whitepaper",
+    "title": "How I used the Manubot to reproduce the Bitcoin Whitepaper",
+    "container-title": "Steemit",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Daniel",
+        "family": "Himmelstein"
+      }
+    ],
+    "id": "yte07Fnn"
+  }
+]
